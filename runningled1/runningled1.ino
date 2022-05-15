@@ -86,7 +86,7 @@ void loop() {
       delay(350);
       break;
     }
-    delay(speedLED);
+    delay(speedLED/2);
   }
 
   for (int i = 2; i < 9; i++) {
