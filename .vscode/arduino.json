@@ -1,0 +1,6 @@
+{
+    "port": "COM6",
+    "board": "arduino:avr:uno",
+    "sketch": "ledpotentiometer1\\ledpotentiometer1.ino",
+    "programmer": "arduino:arduinoisp"
+}
